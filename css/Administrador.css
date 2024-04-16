@@ -10,7 +10,7 @@
     top: 23vh;
     left: 29vw;
     border-radius: 3vi;
-    opacity: 1;
+    opacity: 0;
     animation: blancox 4s ;
 }
 .logo{
@@ -90,21 +90,21 @@
     
     }
     .margenBlanca2{
-        height: 145vi;
+        height: 120vi;
         width: 80vi;
-        top: 14vh;
-        left: 8vw;
+        top: 20vh;
+        left: 10vw;
         border-radius: 10vi;
     }
     .logo{
-        width: 25vi;
-        left: 27vi;
-        top: 3vi;
+        width: 20vi;
+        left: 30vi;
+        top: 5vi;
     }
     .nuevo{
-        font-size: 5vi;
+        font-size: 7vi;
         top: 30vi;
-        left: 9vi;
+        left: 10vi;
     }
     .welcome{
         top: 50vi;
